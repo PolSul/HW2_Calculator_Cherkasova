@@ -22,3 +22,5 @@ def multiply(a, b):
 
 main()
 
+def subtract(a, b):
+    return a - b
